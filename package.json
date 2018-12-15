@@ -1,0 +1,26 @@
+{
+  "name": "vuepress-plugin-alias",
+  "version": "1.0.0",
+  "description": "Vuepress plugin that generates alias pages for proper redirect handling",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaniyokk/vuepress-plugin-alias.git"
+  },
+  "keywords": [
+    "documentation",
+    "vuepress",
+    "plugin",
+    "redirect",
+    "alias"
+  ],
+  "author": "Ivan Kuzmin <vaniyokk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vaniyokk/vuepress-plugin-alias/issues"
+  },
+  "homepage": "https://github.com/vaniyokk/vuepress-plugin-alias#readme"
+}
