@@ -8,6 +8,11 @@ Vuepress plugin that generates alias pages for proper redirect handling
   ```sh
   yarn add vuepress-plugin-alias
   ```
+* NPM
+
+  ```sh
+  npm install vuepress-plugin-sitemap
+  ```
 
 ## Usage
 
