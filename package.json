@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-alias",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.1",
   "description": "Vuepress plugin that generates alias pages for proper redirect handling",
   "main": "index.js",
   "publishConfig": {
