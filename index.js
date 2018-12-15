@@ -1,4 +1,5 @@
-const { fs, path } = require('@vuepress/shared-utils');
+const fs = require('fs-extra');
+const path = require('path');
 
 function getTemplate(path) {
   const result = '<!DOCTYPE html>' +

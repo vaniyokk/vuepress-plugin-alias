@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/vaniyokk/vuepress-plugin-alias/issues"
   },
-  "homepage": "https://github.com/vaniyokk/vuepress-plugin-alias#readme"
+  "homepage": "https://github.com/vaniyokk/vuepress-plugin-alias#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "path": "^0.12.7"
+  }
 }
