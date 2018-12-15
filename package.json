@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-alias",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.1",
   "description": "Vuepress plugin that generates alias pages for proper redirect handling",
   "main": "index.js",
   "publishConfig": {
@@ -22,5 +22,16 @@
   "bugs": {
     "url": "https://github.com/vaniyokk/vuepress-plugin-alias/issues"
   },
-  "homepage": "https://github.com/vaniyokk/vuepress-plugin-alias#readme"
+  "homepage": "https://github.com/vaniyokk/vuepress-plugin-alias#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
 }
