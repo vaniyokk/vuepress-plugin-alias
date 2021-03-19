@@ -11,7 +11,7 @@ Vuepress plugin that generates alias pages for proper redirect handling
 * NPM
 
   ```sh
-  npm install vuepress-plugin-sitemap
+  npm install vuepress-plugin-alias
   ```
 
 ## Usage
